@@ -1,0 +1,15 @@
+LIBRARY BGProcess
+EXPORTS
+	SetStartupInfo
+	OpenPlugin
+	GetPluginInfo
+        GetMinFarVersion
+	Configure
+	FreeFindData
+	GetFindData
+	OpenFilePlugin
+	FreeFindData
+	GetFindData
+	SetDirectory
+	GetOpenPluginInfo
+	GetFiles

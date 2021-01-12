@@ -1,0 +1,7 @@
+LIBRARY
+
+EXPORTS
+  CreateRegistryValue
+  DeleteRegistryValue
+  DeleteRegistryKey
+  InstallFromXMLBuffer
